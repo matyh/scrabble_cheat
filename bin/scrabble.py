@@ -1,3 +1,6 @@
+# Python 2.7.12
+
+
 class Scrabble(object):
     """
     List all possible words, and theirs score if score=True, else returns

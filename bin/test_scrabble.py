@@ -1,6 +1,7 @@
 from unittest import TestCase
 from scrabble import Scrabble
 
+
 class TestScrabble(TestCase):
     def test_get_user_input(self):
         self.fail()
